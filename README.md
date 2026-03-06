@@ -15,9 +15,6 @@
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-> Uygulama cyberpunk temalı modern bir arayüze sahiptir.
 
 ---
 
@@ -41,15 +38,14 @@
 | 🖥️ Standart PC | 10.000 deneme/sn |
 | 🎮 GPU Kümesi | 100 milyar deneme/sn |
 
-### 🎨 Modern Arayüz
-- Cyberpunk temalı gradient tasarım
+### Modern Arayüz
 - Renkli ilerleme çubukları ve metrik kartları
 - Güvenli şifre oluşturma ipuçları (sidebar)
 - K-Anonymity açıklaması
 
 ---
 
-## 🛠️ Kurulum
+##  Kurulum
 
 ### Gereksinimler
 - Python 3.8 veya üzeri
@@ -59,7 +55,7 @@
 
 ```bash
 # 1. Repoyu klonlayın
-git clone https://github.com/KULLANICI_ADI/cybershield.git
+git clone https://github.com/eneskavakk/cybershield.git
 cd cybershield
 
 # 2. Bağımlılıkları yükleyin
@@ -73,7 +69,7 @@ Uygulama varsayılan olarak `http://localhost:8501` adresinde açılacaktır.
 
 ---
 
-## 📁 Proje Yapısı
+## Proje Yapısı
 
 ```
 cybershield/
@@ -84,7 +80,7 @@ cybershield/
 
 ---
 
-## 🔐 Güvenlik & Gizlilik
+##  Güvenlik & Gizlilik
 
 > **Şifreniz asla düz metin olarak kaydedilmez, loglanmaz veya sunucuya gönderilmez.**
 
@@ -123,9 +119,7 @@ API başarısız olsa bile yerel analiz (zxcvbn + brute-force) çalışmaya deva
 
 ---
 
-## 📄 Lisans
 
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ---
 
